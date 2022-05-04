@@ -19,6 +19,7 @@ My code can be found here on [Google Colab](https://colab.research.google.com/dr
 ### 2) Model Training and Accuracy curve.
 - Model is taken from the professor's github as metioned before.
 - I had to try few models that do not overfit, and give good accurayc like below.
+
 ![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Accuracy_Model_graph.png) 
 
 ### 3) Accelerate model Training with Intel.
