@@ -13,15 +13,17 @@ My code can be found here on [Google Colab](https://colab.research.google.com/dr
 - More than 50,000 images in total
 - Large, lifelike database
 - converted image size : (28,28)
+
 ![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Dataset_img.png)
 
 ### 2) Model Training and Accuracy curve.
 - Model is taken from the professor's github as metioned before.
 - I had to try few models that do not overfit, and give good accurayc like below.
-![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Training_output_graph.png) 
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Accuracy_Model_graph.png) 
 
 ### 3) Accelerate model Training with Intel.
 - Intel's integration with the Tensorflow
+
 ![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Intel_acceleration.png)
 
 ### 4) Run the inference and note the timing.
