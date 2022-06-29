@@ -1,3 +1,10 @@
+# Main Task
+In  this project we will compare and contrast our new model accuracy with professor's model. Here are the results below for training graphs and statistics.
+1) Compare all the models with Graphs. 
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Deep_learning_model%20compare%20graph.png)
+
+2) Show statistics of thoes model in graphs.
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Model%20compare%20statistics.png)
 # Bonus Work 2:
 My code can be found here on [Google Colab](https://colab.research.google.com/drive/1RPYmuJPH5piDmX6qamFHzJl_f7qMsf6S?usp=sharing) and on [Github](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Bonus_work_2.ipynb) here.
 1) Use [simple model3](https://github.com/lkk688/MultiModalClassifier/blob/main/TFClassifier/myTFmodels/CNNsimplemodels.py) from Professor's GitHub repo and learn to implement in your own dataset.
