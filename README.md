@@ -53,9 +53,4 @@ My code can be found here on [Google Colab](https://colab.research.google.com/dr
 ### 10) Conclusion.
 ![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/conclusion.png)
  
-# TensorRT inference Problems
-1) TensorRT required TensorFlowV2.0.0 And i did my code in TensorFlowV2.8.0 
-2) Convering my own model I faces a lot of problems in dataloding and appending while training.
-3) My Saved Model from TensorFlowV2.8.0  is not able to load into environment TensorFlowV2.0.0 , it built differently so not able to decode it.
-4) I can copy paste from internet for TensorRT for flowers dataset but I rather do not do it.
-5) I am still working on it. I will update my Github and will let you know. I am so close, just stuck at loading the model in TensorFlowV2.0.0.
+# TensorRT inference
