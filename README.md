@@ -2,11 +2,11 @@
 In  this project we will compare and contrast our new model accuracy with professor's model. Here are the results below for training graphs and statistics.
 1) Compare all the models with Graphs. 
 
-![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Deep_learning_model%20compare%20graph.png)
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/outputs/Deep_learning_model%20compare%20graph.png)
 
 2) Statistics of models above.
 
-![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Model%20compare%20statistics.png)
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/outputs/Model%20compare%20statistics.png)
 
 # Bonus Work 2:
 My code can be found here on [Google Colab](https://colab.research.google.com/drive/1RPYmuJPH5piDmX6qamFHzJl_f7qMsf6S?usp=sharing) and on [Github](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Bonus_work_2.ipynb) here.
@@ -24,18 +24,18 @@ My code can be found here on [Google Colab](https://colab.research.google.com/dr
 - Large, lifelike database
 - converted image size : (28,28)
 
-![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Dataset_img.png)
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/outputs/Dataset_img.png)
 
 ### 2) Model Training and Accuracy curve.
 - Model is taken from the professor's github as metioned before.
 - I had to try few models that do not overfit, and give good accurayc like below.
 
-![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Accuracy_Model_graph.png) 
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/outputs/Accuracy_Model_graph.png) 
 
 ### 3) Accelerate model Training with Intel.
 - Intel's integration with the Tensorflow
 
-![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Intel_acceleration.png)
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/outputs/Intel_acceleration.png)
 
 ### 4) Run the inference and note the timing.
 - Average 49 miliseconds for every 50 images.
@@ -48,12 +48,12 @@ My code can be found here on [Google Colab](https://colab.research.google.com/dr
 - model_quant_tl.tflite : 210736 KB = 210.73 MB
 
 ### 8) Saved models looked like this in Google Colab.
-![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/Files_Directory.png)
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/outputs/Files_Directory.png)
 
 ### 9) Now highlight different prediciton values to see changes easily.
-![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/outputPandaframe.png)
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/outputs/outputPandaframe.png)
 
 ### 10) Conclusion.
-![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/conclusion.png)
+![image](https://github.com/PLEX-GR00T/Data_Mining/blob/main/outputs/conclusion.png)
  
 # TensorRT inference
